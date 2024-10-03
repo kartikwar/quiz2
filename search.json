@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My quiz curriculum",
+    "section": "",
+    "text": "Quiz 2 will feature lectures from 5 to 10"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quiz2",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
