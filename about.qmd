@@ -2,4 +2,4 @@
 title: "My quiz curriculum"
 ---
 
-About this site
+Quiz 2 will feature lectures from 5 to 10
